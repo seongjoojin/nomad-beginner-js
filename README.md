@@ -19,3 +19,8 @@ ECMAScript - 설명문
 ## 변수
 
 Create -> Initialize -> Use
+
+## let, const, var
+
+let : 초기화 후 변할 수 있음, 
+const: 상수
