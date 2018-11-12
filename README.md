@@ -15,3 +15,7 @@
 ## ES5, ES6 ESWTF?
 
 ECMAScript - 설명문
+
+## 변수
+
+Create -> Initialize -> Use
