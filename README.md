@@ -46,3 +46,15 @@ const wat2 = true
 // Number
 const wat = 333
 ```
+
+## Organizing Data with Arrays
+
+Array, Object
+
+Array : 데이터를 저장하는 곳. 리스트 같이 저장
+
+```js
+const dayOfWeek = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
+console.log(dayOfWeek) // ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
+console.log(dayOfWeek[2]) // Wed
+```
