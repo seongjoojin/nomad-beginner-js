@@ -24,3 +24,25 @@ Create -> Initialize -> Use
 
 let : 초기화 후 변할 수 있음, 
 const: 상수
+
+## Data Types on JS
+
+주석 - // , /**/
+
+변수 선언시에는 기본 const로!
+
+```js
+//String
+const what = "evan"
+```
+
+```js
+// Boolean
+const wat1 = false
+const wat2 = true
+```
+
+```js
+// Number
+const wat = 333
+```
