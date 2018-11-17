@@ -58,3 +58,23 @@ const dayOfWeek = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
 console.log(dayOfWeek) // ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
 console.log(dayOfWeek[2]) // Wed
 ```
+
+## Organizing Data with Objects
+
+```js
+const nicoInfo = {
+	name: "Nico",
+	age: 33,
+	gender: "Male",
+	isHandsome: true,
+	favMovie: ["Along the gods","LOTR", "Oldboy"],
+	favFood: [{name:"Kimchi",fatty:false}, 
+	{name: "Cheese burger", fatty: true}]
+}
+
+console.log(nicoInfo)
+```
+
+데이터를 정렬하는 두가지 방법 : Array, Object
+리스트 데이터 : Array
+데이터를 합쳐서 만들어야 한다면 : Object
