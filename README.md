@@ -78,3 +78,26 @@ console.log(nicoInfo)
 데이터를 정렬하는 두가지 방법 : Array, Object
 리스트 데이터 : Array
 데이터를 합쳐서 만들어야 한다면 : Object
+
+## Your first JS Function
+
+```js
+const nicoInfo = {
+	name: "Nico",
+	age: 33,
+	gender: "Male",
+	isHandsome: true
+}
+
+console.log(nicoInfo, console)
+```
+
+내장함수 : console, alert 
+
+```js
+function sayHello(name, age) {
+  console.log("Hello!", name, "you have", age, " years of age.")
+}
+
+sayHello("Nicolas", 15)
+```
