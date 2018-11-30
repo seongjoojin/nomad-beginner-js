@@ -101,3 +101,42 @@ function sayHello(name, age) {
 
 sayHello("Nicolas", 15)
 ```
+
+## More Function Fun
+
+```js
+function sayHello(name, age) {
+  console.log(`Hello ${name} you have ${age} years old`)
+}
+
+sayHello("Nicolas", 15)	// Hello Nicolas you have 15 years old
+```
+
+```js
+function sayHello(name, age) {
+  console.log(`Hello ${name} you have ${age} years old`)
+}
+
+const greetNicolas = sayHello("Nicolas", 14) // Hello Nicolas you have 14 years old
+```
+
+```js
+function sayHello(name, age) {
+  return `Hello ${name} you have ${age} years old`
+}
+
+const greetNicolas = sayHello("Nicolas", 14)
+
+console.log(greetNicolas)	// Hello Nicolas you have 14 years old
+```
+
+```js
+const calculator = {
+	plus: function(a, b) {
+		return a + b
+	}
+}
+
+const plus = calculator.plus(5, 5)
+console.log(plus) // 10
+```
