@@ -140,3 +140,7 @@ const calculator = {
 const plus = calculator.plus(5, 5)
 console.log(plus) // 10
 ```
+
+## JS DOM Functions
+
+DOM : Document Object Module
