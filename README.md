@@ -144,3 +144,11 @@ console.log(plus) // 10
 ## JS DOM Functions
 
 DOM : Document Object Module
+
+## 참고 color
+
+https://flatuicolors.com
+
+## HTML Javascript DOM event MDN
+
+https://developer.mozilla.org/en-US/docs/Web/Events 
